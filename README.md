@@ -1,5 +1,6 @@
 
-<img width="1584" height="396" alt="Black and White Simple Front End LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/6ff6bdef-32e8-42eb-ae94-f4ff168db88f" />
+<img width="2000" height="2000" alt="matiaslogo" src="https://github.com/user-attachments/assets/61b8b042-d12f-4788-8c6d-24bdc7c2eaf5" />
+
 
 
 
